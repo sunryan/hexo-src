@@ -1,0 +1,4 @@
+hexo clean
+hexo s 运行
+hexo d 发布
+hexo new 博客名
